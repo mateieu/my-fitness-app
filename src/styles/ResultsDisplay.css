@@ -1,0 +1,57 @@
+.results-container {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  padding: 20px;
+}
+
+.plan-section {
+  margin-bottom: 30px;
+}
+
+.plan-section h3 {
+  color: #333;
+  border-bottom: 2px solid #ff4d4d;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.workout-day {
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.workout-day h4 {
+  color: #ff4d4d;
+  margin-bottom: 10px;
+}
+
+.workout-day ul {
+  list-style: none;
+  padding: 0;
+}
+
+.workout-day li {
+  padding: 5px 0;
+}
+
+.nutrition-plan {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.macros {
+  margin-top: 15px;
+}
+
+.macros ul {
+  list-style: none;
+  padding: 0;
+}
+
+.macros li {
+  padding: 5px 0;
+} 
